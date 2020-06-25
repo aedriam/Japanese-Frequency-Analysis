@@ -24,11 +24,11 @@ Additionally, the part of speech that each lemma is classified as will be used t
 Data Sources:
 - The lemma dataset can be found hosted at http://corpus.leeds.ac.uk/frqc/internet-jp.num and similar datasets for other languages can be found at http://corpus.leeds.ac.uk/list.html
 
-- The Part of Speech distribution frequency dataset can be found athttp://corpus.leeds.ac.uk/frqc/internet-jp-pos.num
+- The Part of Speech distribution frequency dataset can be found at http://corpus.leeds.ac.uk/frqc/internet-jp-pos.num
 
 - The JLPT tier dataset was created from this webpage https://www.nihongo-pro.com/kanji-pal/list/jlpt
 
-- The Kanji .json dataset is found athttps://thekanjimap.com/kanji.html
+- The Kanji .json dataset is found at https://thekanjimap.com/kanji.html
 
 - Character information is additionally gathered from http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C
 
